@@ -45,5 +45,3 @@ Install Anaconda Navigator. Open Anaconda prompt as Administrator and run the fo
 ### PROJECT STRUCTURE:
 ![Project Structure](https://user-images.githubusercontent.com/89291527/192811895-6fd71514-5f13-4b49-8d1c-936b68a445e5.png)
 
-### DATA COLLECTION:
-Download the dataset from https://drive.google.com/drive/folders/1lpOrcULlx5mHuSbbLRCrvmCwXKkbDVKE
